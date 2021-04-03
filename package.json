@@ -1,6 +1,6 @@
 {
-  "name": "pinyinsort",
-  "version": "1.1.3",
+  "name": "@sort/pinyinsort",
+  "version": "1.1.4",
   "main": "dist/index.js",
   "license": "MIT",
   "files": [
