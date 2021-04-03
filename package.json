@@ -1,6 +1,6 @@
 {
-  "name": "@sort/pinyinsort",
-  "version": "1.1.5",
+  "name": "pinyin-supersort",
+  "version": "1.1.6",
   "main": "dist/index.js",
   "license": "MIT",
   "files": [
